@@ -1,2 +1,2 @@
-# ClipSick---Upload_Your_Videos
-ClipSick: Flex your awesome gaming clutches and Funny moments on ClutchKid-Tech’s hub 
+Clipsick - Upload your Videos
+Upload your best video game clutches, funniest moments and more. Share your gaming life with other!
